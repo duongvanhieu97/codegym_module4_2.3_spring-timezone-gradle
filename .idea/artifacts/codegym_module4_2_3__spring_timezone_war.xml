@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="codegym_module4_2.3_ spring-timezone:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>codegym_module4_2.3_ spring-timezone</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="controller-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="codegym_module4_2.3_ spring-timezone:war exploded" />
+    </root>
+  </artifact>
+</component>
